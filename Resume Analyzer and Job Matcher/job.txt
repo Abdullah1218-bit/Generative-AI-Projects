@@ -1,0 +1,60 @@
+Job Title: Data Analyst
+
+Company Overview
+We are a growing analytics company looking for a skilled Data Analyst to join our team.
+
+Responsibilities
+- Analyze large datasets to extract insights
+- Build dashboards and reports
+- Work with machine learning models for prediction
+- Collaborate with stakeholders to understand business needs
+
+Required Skills
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Power BI
+- Excel
+- Pandas
+
+Preferred Skills
+- NumPy
+- Data Visualization
+- Statistics
+
+Experience Required
+- Minimum 2 years of experience in data analysis or related field
+
+Education
+- Bachelor’s degree in Computer Science, Data Science, or related field
+Job Title: Data Analyst
+
+Company Overview
+We are a growing analytics company looking for a skilled Data Analyst to join our team.
+
+Responsibilities
+- Analyze large datasets to extract insights
+- Build dashboards and reports
+- Work with machine learning models for prediction
+- Collaborate with stakeholders to understand business needs
+
+Required Skills
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Power BI
+- Excel
+- Pandas
+
+Preferred Skills
+- NumPy
+- Data Visualization
+- Statistics
+
+Experience Required
+- Minimum 2 years of experience in data analysis or related field
+
+Education
+- Bachelor’s degree in Computer Science, Data Science, or related field

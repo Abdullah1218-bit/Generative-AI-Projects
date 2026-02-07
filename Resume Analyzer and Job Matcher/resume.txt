@@ -1,0 +1,37 @@
+Muhammad Abdullah
+Email: abdullah@example.com
+Phone: +92-3XX-XXXXXXX
+
+Professional Summary
+Motivated Data Analyst and Machine Learning Engineer with strong experience in
+Python, data analysis, and machine learning. Skilled in transforming raw data
+into actionable insights and building predictive models.
+
+Skills
+- Python
+- SQL
+- Data Analysis
+- Machine Learning
+- Pandas
+- NumPy
+- Power BI
+- Excel
+- Matplotlib
+- Seaborn
+
+Experience
+Data Analyst Intern (1 Year)
+- Cleaned and analyzed large datasets using Python and Pandas
+- Built dashboards in Power BI
+- Performed exploratory data analysis and visualization
+
+Education
+Bachelor’s Degree in Computer Science
+
+Projects
+- Heart Disease Prediction using Machine Learning
+- Used Car Price Prediction using Regression
+- Resume Analyzer & Job Matcher (NLP-based)
+
+Tools & Technologies
+Python, SQL, Power BI, Excel, Git, VS Code
